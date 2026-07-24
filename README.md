@@ -1,7 +1,8 @@
 # 🩵 AI Aphasia Assistant
 
-> **Empowering Independent Speech & Communication for Stroke Survivors**  
-> *Project ID: `10439315232679877472`*
+> **Empowering Independent Speech & Communication for Stroke Survivors**
+> app link **:https://aphasia-assistant.vercel.app/
+> *Project ID of google stitich: `10439315232679877472`*
 
 ---
 
